@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Get Focus Just Like a Monk. Transform distractions into deep work with our complete productivity suite featuring Pomodoro timer, website blocker, and more.",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/public/favicon.ico",
   },
 }
 
